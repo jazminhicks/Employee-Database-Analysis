@@ -6,6 +6,8 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 ###### Modeling
 1. Inspected the CSVs and created an ERD of the tables using http://www.quickdatabasediagrams.com/. Here, data types, primary keys, foreign keys, and other constraints were specified
 
+![image](https://user-images.githubusercontent.com/49836101/61267585-1c980500-a75e-11e9-9288-4911001c8aad.png)
+
 ###### Engineering
 2. Exported the ERD to postgresql to create a table schema for each csv file.
 
@@ -35,3 +37,6 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 *  Imported the SQL database into Pandas
 
 *  Create a bar chart of average salary by title.
+
+![image](https://user-images.githubusercontent.com/49836101/61267638-46e9c280-a75e-11e9-99ff-b12d2d38906e.png)
+
